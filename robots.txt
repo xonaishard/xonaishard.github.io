@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://xonaishard.github.io/sitemap.html
+Sitemap: https://xonaishard.github.io/app/sitemap.html
+Sitemap: https://xonaishard.github.io/assets/sitemap.html
+Sitemap: https://xonaishard.github.io/includes/sitemap.html
+Sitemap: https://xonaishard.github.io/src/sitemap.html
